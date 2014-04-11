@@ -1,0 +1,3 @@
+#AWS Creds
+access_key_id: AKIAIZ5LRWH6THPZCFKQ 
+secret_access_key: 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
